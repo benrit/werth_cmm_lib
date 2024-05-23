@@ -1,0 +1,10 @@
+[project]
+name = "werth"
+version = "0.0.1"
+authors = [
+  { name="Benjamin Ritter", email="ritterbwa@gmail.com" },
+]
+
+description = "Werth cmm dmis creator, a simpler more flexible way to create Werth programs"
+readme = "README.md"
+requires-python = ">=3.8"
